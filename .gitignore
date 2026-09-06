@@ -13,10 +13,7 @@ __pycache__/
 .env.*
 !.env.example
 
-# Raw and generated data
-data/raw/*
-!data/raw/.gitkeep
-
+# Generated data
 data/processed/
 data/output/
 
